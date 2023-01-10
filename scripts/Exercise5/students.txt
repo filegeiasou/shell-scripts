@@ -1,0 +1,15 @@
+Student 7, Katerina Mixailidou 89,75
+Student 4, Nikolaos Alexopoulos 88,75
+Student 1, Thomas Georgiou 87,5
+Student 10, Argiris Kokiousis 84,75
+Student 3, Nick Aliferis 84,25
+Student 13, Athanasia Gogola 81,25
+Student 14, Stauros Kloutsiniotis 80
+Student 11, Xristina Pitsouli 77,5
+Student 8, Giorgos Karamanos 73,75
+Student 2, Mary Makridi 68
+Student 5, Manolis Mitropoulos 66,5
+Student 15, Alexandros Benizelos 64,5
+Student 6, Aggelos Kostantinidis 63
+Student 9, Kostantinos Xronis 54,5
+Student 12, Menelaos Andrikopoulos 46,75

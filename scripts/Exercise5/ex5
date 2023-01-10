@@ -1,0 +1,12 @@
+#a)
+awk '/^K|N/ {print $0} ' grades.txt
+awk '/Theo/ {print $2,$1} ' grades.txt
+awk '{ if ($5 > max) max = $5 } END {print max} ' grades.txt
+awk 'BEGIN{count=0} { if ($6 < 70) count++ } END {print count} ' grades.txt
+
+
+#b)
+awk -f grades1.awk grades.txt | sort -r -k 5 > students.txt
+
+#c)
+awk -f grades2.awk grades.txt
